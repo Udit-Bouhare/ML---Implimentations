@@ -1,4 +1,4 @@
-<h1 align="center">🤖✨ ML Implementations 🚀</h1>
+<h1 align="center">🤖✨ <b>ML Implementations</b> 🚀</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python" alt="Python Version"/>
@@ -11,19 +11,22 @@
 </p>
 
 <p align="center">
-  🌟 A beautiful collection of <b>Machine Learning Algorithms</b> implemented from scratch and with libraries — perfect for <b>learning, revising, and understanding ML fundamentals</b>. 🌟
+  <b><font size="4">🌟 A beautiful collection of <em>Machine Learning Algorithms</em> implemented from scratch and with libraries — perfect for learning, revising, and mastering ML fundamentals. 🌟</font></b>
 </p>
 
 ---
 
-## 🧠 Overview
+<h2>🧠 <b>Overview</b></h2>
 
-Welcome to **ML Implementations** — a hands-on learning space for machine learning enthusiasts.  
+<font size="3">
+Welcome to <b>ML Implementations</b> — a hands-on learning space for machine learning enthusiasts.  
 Here you’ll find:
-- 💻 Practical implementations of core ML algorithms  
-- 📚 Easy-to-understand code and explanations  
-- 📊 Data visualizations for better intuition  
-- 🎯 Ideal for learning, revision, and self-practice  
+</font>
+
+- 💻 <b>Practical implementations</b> of core ML algorithms  
+- 📚 <b>Readable code</b> and explanations  
+- 📊 <b>Visual insights</b> for better understanding  
+- 🎯 <b>Perfect for learning and revision</b>  
 
 Every algorithm is neatly organized in its own folder, containing:
 - 🧩 Implementation (from scratch or using libraries)
@@ -33,7 +36,7 @@ Every algorithm is neatly organized in its own folder, containing:
 
 ---
 
-## 🧰 Tech Stack
+<h2>🧰 <b>Tech Stack</b></h2>
 
 | Category | Tools / Libraries |
 |-----------|------------------|
